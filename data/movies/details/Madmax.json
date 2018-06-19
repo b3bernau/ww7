@@ -1,0 +1,14 @@
+{
+      "name": "Mad Max - Fury Road",
+      "description" : "Hanté par un lourd passé, Mad Max estime que le meilleur moyen de survivre est de rester seul. Cependant, il se retrouve embarqué par une bande qui parcourt la Désolation à bord d'un véhicule militaire piloté par l'Imperator Furiosa. Ils fuient la Citadelle où sévit le terrible Immortan Joe qui s'est fait voler un objet irremplaçable. Enragé, ce Seigneur de guerre envoie ses hommes pour traquer les rebelles impitoyablement…",
+      "year": 2015,
+      "id": "Madmax",
+      "img": "/img/Madmax.jpg",
+      "duree": "2h00",
+      "age" : "12 ans",
+      "genre" : "Science fiction",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/D3tm2sQ0sY0"
+  }

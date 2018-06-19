@@ -1,0 +1,13 @@
+{
+    "name": "The Walking Dead - S01",
+    "description": "Après une apocalypse ayant transformé la quasi-totalité de la population en zombies, un groupe d'hommes et de femmes mené par l'officier Rick Grimes tente de survivre... Ensemble, ils vont devoir tant bien que mal faire face à ce nouveau monde devenu méconnaissable, à travers leur périple dans le Sud profond des États-Unis.",
+    "year": 2010,
+    "id": "TheWalkingDead1",
+    "img": "/img/TheWalkingDead.jpg",
+    "duree": "6 épisodes",
+    "genre" : "Horreur",
+    "plateformeDiffusion" : "AMC",
+    "note" : "4",
+    "age" : "12 ans",
+    "video": "https://youtu.be/AbtiqJGhWyY"
+}

@@ -1,0 +1,14 @@
+{
+      "name": "Wonder Woman",
+      "description": "C'était avant qu'elle ne devienne Wonder Woman, à l'époque où elle était encore Diana, princesse des Amazones et combattante invincible. Un jour, un pilote américain s'écrase sur l'île paradisiaque où elle vit, à l'abri des fracas du monde. Lorsqu'il lui raconte qu'une guerre terrible fait rage à l'autre bout de la planète, Diana quitte son havre de paix, convaincue qu'elle doit enrayer la menace. En s'alliant aux hommes dans un combat destiné à mettre fin à la guerre, Diana découvrira toute l'étendue de ses pouvoirs… et son véritable destin.",
+      "year": 2017,
+      "id": "WonderWoman",
+      "img": "/img/WonderWoman.jpg",
+      "duree": "2h21",
+      "age" : "Tout",
+      "genre" : "Science fiction",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/ECTqqXBceG4"
+  }

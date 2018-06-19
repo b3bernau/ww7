@@ -1,0 +1,14 @@
+{
+      "name": "Dumbo",
+      "description": "Les enfants de Holt Farrier, ex-artiste de cirque chargé de s’occuper d’un éléphanteau dont les oreilles démesurées sont la risée du public, découvrent que ce dernier sait voler...'",
+      "year": 2019,
+      "id": "Dumbo",
+      "img": "/img/Dumbo.jpg",
+      "duree": "NC",
+      "age" : "Tout",
+      "genre" : "Animation",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/yo4PAQIwjWY"
+  }

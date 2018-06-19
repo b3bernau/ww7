@@ -1,0 +1,14 @@
+{
+      "name": "Seul sur Mars",
+      "description": "Lors d’une expédition sur Mars, l’astronaute Mark Watney (Matt Damon) est laissé pour mort par ses coéquipiers, une tempête les ayant obligés à décoller en urgence. Mais Mark a survécu et il est désormais seul, sans moyen de repartir, sur une planète hostile. Il va devoir faire appel à son intelligence et son ingéniosité pour tenter de survivre et trouver un moyen de contacter la Terre. A 225 millions de kilomètres, la NASA et des scientifiques du monde entier travaillent sans relâche pour le sauver, pendant que ses coéquipiers tentent d’organiser une mission pour le récupérer au péril de leurs vies.",
+      "year": 2015,
+      "id": "SeulSurMars",
+      "img": "/img/SeulSurMars.jpg",
+      "duree": "2h24",
+      "age" : "Tout",
+      "genre" : "Science fiction",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/l7NUPqUoP0I"
+  }

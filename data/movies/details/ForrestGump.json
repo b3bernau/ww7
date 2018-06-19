@@ -1,0 +1,14 @@
+{
+      "name": "Forest Gump",
+      "description" : "Quelques décennies d'histoire américaine, des années 1940 à la fin du XXème siècle, à travers le regard et l'étrange odyssée d'un homme simple et pur, Forrest Gump.",
+      "year": 1994,
+      "id": "ForrestGump",
+      "img": "/img/ForrestGump.jpg",
+      "duree": "2h20",
+      "age" : "Tout",
+      "genre" : "Comédie",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/vhbOdIJyalo"
+  }

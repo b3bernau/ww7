@@ -1,0 +1,14 @@
+{
+      "name": "300",
+      "description": "Adapté du roman graphique de Frank Miller, 300 est un récit épique de la Bataille des Thermopyles, qui opposa en l'an - 480 le roi Léonidas et 300 soldats spartiates à Xerxès et l'immense armée perse. Face à un invincible ennemi, les 300 déployèrent jusqu'à leur dernier souffle un courage surhumain ; leur vaillance et leur héroïque sacrifice inspirèrent toute la Grèce à se dresser contre la Perse, posant ainsi les premières pierres de la démocratie.",
+      "year": 2007,
+      "id": "300",
+      "img": "/img/300.jpg",
+      "duree": "1h55",
+      "age" : "12 ans",
+      "genre" : "Action",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/1R2HpgDVrFc"
+  }

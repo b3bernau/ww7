@@ -1,0 +1,14 @@
+{
+      "name": "Avatar 2",
+      "description": "Retour sur Pandora avec la suite d''Avatar'",
+      "year": 2020,
+      "id": "Avatar",
+      "img": "/img/Avatar2.jpg",
+      "duree": "NC",
+      "age" : "Tout",
+      "genre" : "Science fiction",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : ""
+  }

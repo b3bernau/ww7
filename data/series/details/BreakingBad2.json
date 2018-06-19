@@ -1,0 +1,13 @@
+{
+    "name": "Breaking Bad - Saison 2",
+    "description" : "Tuco Salamanca, le caïd psychopathe, enlève Walter et Jesse car il croit que son bras droit Gonzo l’a trahi (en réalité il a été tué accidentellement). La famille de Walter s’inquiète de sa disparition. Hank part alors à sa recherche et trouve le repaire de Tuco. Alors que Walter et Jesse viennent de s’échapper, Hank abat Tuco.",
+    "year": 2009,
+    "id": "BreakingBad2",
+    "img": "/img/BreakingBad.jpg",
+    "duree": "13 épisodes",
+    "genre" : "Policier",
+    "plateformeDiffusion" : "AMC",
+    "note" : "2.5",
+    "age" : "Tout",
+    "video": "https://youtu.be/3nXznq02ixM"
+}

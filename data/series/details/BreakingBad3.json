@@ -1,0 +1,13 @@
+{
+    "name": "Breaking Bad - Saison 3",
+    "description" : "Depuis le crash d'avion, la ville d'Albuquerque est en deuil. Walter, traumatisé depuis qu'il sait qu'il est en partie responsable, refuse néanmoins d'accepter la réalité. Skyler apprend le secret de Walter, demande le divorce, mais promet de garder le secret du travail de Walter pour leurs enfants. Walter ne l'entend pas de cette oreille, refuse de quitter sa femme et tente d'expliquer ses actes. Skyler se jette alors dans une aventure avec Ted, son patron.",
+    "year": 2010,
+    "id": "BreakingBad3",
+    "img": "/img/BreakingBad.jpg",
+    "duree": "13 épisodes",
+    "genre" : "Policier",
+    "plateformeDiffusion" : "AMC",
+    "note" : "5",
+    "age" : "Tout",
+    "video": "https://youtu.be/3nXznq02ixM"
+}

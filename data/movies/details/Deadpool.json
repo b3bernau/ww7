@@ -1,0 +1,14 @@
+{
+      "name": "Deadpool",
+      "description": "Deadpool, est l'anti-héros le plus atypique de l'univers Marvel. A l'origine, il s'appelle Wade Wilson : un ancien militaire des Forces Spéciales devenu mercenaire. Après avoir subi une expérimentation hors norme qui va accélérer ses pouvoirs de guérison, il va devenir Deadpool. Armé de ses nouvelles capacités et d'un humour noir survolté, Deadpool va traquer l'homme qui a bien failli anéantir sa vie.",
+      "year": 2016,
+      "id": "Deadpool",
+      "img": "/img/Deadpool.jpg",
+      "duree": "1h48",
+      "age" : "12 ans",
+      "genre" : "Super héros",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/XWtH7anz7io"
+  }

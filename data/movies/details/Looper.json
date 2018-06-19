@@ -1,0 +1,14 @@
+{
+      "name": "Looper",
+      "description": "Dans un futur proche, la Mafia a mis au point un système infaillible pour faire disparaître tous les témoins gênants. Elle expédie ses victimes dans le passé, à notre époque, où des tueurs d’un genre nouveau (les 'Loopers') les éliminent. Un jour, l’un d’entre eux, Joe, découvre que la victime qu’il doit exécuter n’est autre que… lui-même, avec 20 ans de plus. La machine si bien huilée déraille…",
+      "year": 2012,
+      "id": "Looper",
+      "img": "/img/Looper.jpg",
+      "duree": "1h50",
+      "age" : "Tout",
+      "genre" : "Science fiction",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/gGilaY_V3OQ"
+  }

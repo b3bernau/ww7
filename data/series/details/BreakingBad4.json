@@ -1,0 +1,13 @@
+{
+    "name": "Breaking Bad - Saison 4",
+    "description" : "Walter essaye de retrouver une certaine stabilité dans sa vie professionnelle, tandis que Jesse va plus mal que jamais, étant proche d'un état dépressif. Mais grâce au deuxième travail qu'il effectue avec Mike, il retrouve alors un peu d'équilibre, et est habilité à protéger Gus lors de son attentat contre le cartel.",
+    "year": 2011,
+    "id": "BreakingBad4",
+    "img": "/img/BreakingBad.jpg",
+    "duree": "13 épisodes",
+    "genre" : "Policier",
+    "plateformeDiffusion" : "AMC",
+    "note" : "4",
+    "age" : "Tout",
+    "video": "https://youtu.be/3nXznq02ixM"
+}

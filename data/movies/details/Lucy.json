@@ -1,0 +1,14 @@
+{
+      "name": "Lucy",
+      "description": "A la suite de circonstances indépendantes de sa volonté, une jeune étudiante voit ses capacités intellectuelles se développer à l’infini. Elle « colonise » son cerveau, et acquiert des pouvoirs illimités.",
+      "year": 2014,
+      "id": "Lucy",
+      "img": "/img/Lucy.jpg",
+      "duree": "1h29",
+      "age" : "Tout",
+      "genre" : "Science fiction",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/7gPrNpHaFX8"
+  }

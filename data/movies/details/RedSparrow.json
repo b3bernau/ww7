@@ -1,0 +1,14 @@
+{
+      "name": "Red Sparrow",
+      "description" : "Une jeune ballerine, dont la carrière est brisée nette après une chute, est recrutée contre sa volonté par les services secrets russes. Entraînée à utiliser ses charmes et son corps comme des armes, elle découvre l’ampleur de son nouveau pouvoir et devient rapidement l’un de leurs meilleurs agents. Sa première cible est un agent infiltré de la CIA en Russie. Entre manipulation et séduction, un jeu dangereux s’installe entre eux.",
+      "year": 2018,
+      "id": "RedSparrow",
+      "img": "/img/RedSparrow.jpg",
+      "duree": "2h21",
+      "age" : "12 ans",
+      "genre" : "Thriller",
+      "salle" : false,
+      "plateformeDiffusion" : "Google Play Movies",
+      "note" : "5",
+      "video" : "https://youtu.be/bAc5oVB9eeI"
+  }

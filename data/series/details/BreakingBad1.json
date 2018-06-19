@@ -1,0 +1,13 @@
+{
+      "name": "Breaking Bad - Saison 1",
+      "description" : "Walter White est professeur de chimie dans un lycée et vit avec son fils handicapé et sa femme enceinte à Albuquerque, au Nouveau-Mexique. Lorsqu'on lui diagnostique un cancer du poumon en phase terminale, tout s'effondre. Il décide alors de mettre en place un laboratoire de méthamphétamine pour subvenir aux besoins de sa famille en s'associant avec l'un de ses anciens élèves, Jesse Pinkman, devenu petit trafiquant.",
+      "year": 2008,
+      "id": "BreakingBad1",
+      "img": "/img/BreakingBad.jpg",
+      "duree": "7 épisodes",
+      "genre" : "Policier",
+      "plateformeDiffusion" : "AMC",
+      "note" : "0",
+      "age" : "Tout",
+      "video": "https://youtu.be/3nXznq02ixM"
+  }

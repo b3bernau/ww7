@@ -1,0 +1,13 @@
+{
+    "name": "Vikings - Saison 5",
+    "description": "Scandinavie, à la fin du 8ème siècle. Ragnar Lodbrok, un jeune guerrier viking, est avide d'aventures et de nouvelles conquêtes. Lassé des pillages sur les terres de l'Est, il se met en tête d'explorer l'Ouest par la mer. Malgré la réprobation de son chef, Haraldson, il se fie aux signes et à la volonté des dieux, en construisant une nouvelle génération de vaisseaux, plus légers et plus rapides...",
+    "year": 2019,
+    "id": "Vikings5",
+    "img": "/img/Vikings5.jpg",
+    "duree": "10 épisodes",
+    "genre" : "Action",
+    "plateformeDiffusion" : "History",
+    "note" : "4",
+    "age" : "12 ans",
+    "video": "https://youtu.be/TEoXrI4iT24"
+}

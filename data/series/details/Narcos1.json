@@ -1,0 +1,13 @@
+{
+    "name": "Narcos - Saison 1",
+    "description" : "Loin d’un simple biopic de Pablo Escobar, Narcos retrace la lutte acharnée des États-Unis et de la Colombie contre le cartel de la drogue de Medellín, l’organisation la plus lucrative et impitoyable de l’histoire criminelle moderne. En multipliant les points de vue — policier, politique, judiciaire et personnel — la série dépeint l’essor du trafic de cocaïne et le bras de fer sanglant engagé avec les narcotrafiquants qui contrôlent le marché avec violence et ingéniosité.",
+    "year": 2015,
+    "id": "Narcos1",
+    "img": "/img/Narcos.jpg",
+    "duree": "10 épisodes",
+    "genre" : "Thriller",
+    "plateformeDiffusion" : "Netflix",
+    "note" : "4",
+    "age" : "Tout",
+    "video": "https://youtu.be/DxdqaHNSqDM"
+}
